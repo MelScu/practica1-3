@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(228, 161, 61);
+    color: rgb(65, 123, 209);
+    display: grid;
+    justify-items: center;
+}
+p{
+    background-color: black;
+}
