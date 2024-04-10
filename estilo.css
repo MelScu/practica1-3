@@ -1,9 +1,13 @@
 body{
-    background-color: rgb(228, 161, 61);
-    color: rgb(65, 123, 209);
+    background-color:cornflowerblue;
+    color: rgb(255, 255, 255);
     display: grid;
     justify-items: center;
 }
 p{
-    background-color: black;
+    color: coral;
 }
+iframe{
+    border: 10px solid coral;
+}
+
